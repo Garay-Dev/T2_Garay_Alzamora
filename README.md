@@ -9,7 +9,12 @@ Evidencia T2: cambio para el segundo commit
 
 
 PREGUNTA 2
-Control de cambios 
+Control de cambios:
 modificación de Readme.md
 Cambio realizado en el pom.xml agregando descripción del proyecto.
 creación del archivo observaciones.txt
+
+PREGUNTA 3
+Gestión de Ramas:
+rama creada feature-apellidopaterno
+se cambia a la rama feature-apellidopaterno y crea la clase de java ControlVersion_ApellidoPaterno.java que imprime en consola desde que rama fue creado
